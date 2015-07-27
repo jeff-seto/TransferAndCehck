@@ -1,9 +1,9 @@
 # Transfer and Check
 
 # Variables
-$source = "C:\Test\folder1"
-$destination = "C:\Test\folder2"
-$log = "\\aoanvmva33\IT_Admin\Archive_Logs\aoanvmva33_archive.log"
+$source = "C:\Folder1"
+$destination = "C:\Folder2"
+$log = "C:\Logs\archive.log"
 
 # Edit for RegEx
 $sourceRegEx = $source -replace "\\", "\\"
